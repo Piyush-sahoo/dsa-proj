@@ -46,13 +46,14 @@ This repository contains the source code for the Data Structures and Algorithms 
 
 ## Contributions
 
--Contributions are welcome! If you'd like to contribute to this project, please follow the standard GitHub workflow:
+- Contributions are welcome! If you'd like to contribute to this project, please follow the standard GitHub workflow:
 
-  -Fork the repository.
-  -Create a new branch for your feature or bug fix.
-  -Make changes and commit them.
-  -Push your changes to your fork.
-  -Submit a pull request.
+  - Fork the repository.
+  - Create a new branch for your feature or bug fix.
+  - Make changes and commit them.
+  - Push your changes to your fork.
+  - Submit a pull request.
+  - ...
 
 
 
